@@ -154,21 +154,21 @@ h2{
 #Best{
     overflow: hidden;
 }
-[src="Images/Good of war.jpg"]{
+[src="Good of war.jpg"]{
     width: 300px;
     height: 200px;
     border: 2px solid green;
     border-radius: 10px;
     outline: 3px solid yellow;
 }
-[src="Images/palworld.jpg"]{
+[src="palworld.jpg"]{
     width: 300px;
     height: 200px;
     border: 2px solid green;
     border-radius: 10px;
     outline: 3px solid yellow;
 }
-[src="Images/resident evil village.jpg"]{
+[src="resident evil village.jpg"]{
     width: 300px;
     height: 200px;
     border: 2px solid green;
