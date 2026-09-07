@@ -215,3 +215,11 @@ input:focus{
     width: 300px;
     height: 340px; 
 }
+video{
+    width: 640px;
+    height: 350px;
+    border: 2px solid green;
+    border-radius: 10px;
+    outline: 3px solid yellow;
+}
+    
