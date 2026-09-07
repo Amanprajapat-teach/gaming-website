@@ -120,14 +120,14 @@ h2{
     border-radius: 10px;
     font-weight: bold;
 }
-[src="Images/gaming image.jpg"]{
+[src="gaming image.jpg"]{
     width: 480px;
     height: 200px;
     border: 2px solid green;
     border-radius: 10px;
     outline: 3px solid yellow;
 }
-[src="Images/gaming image.jpg"]:hover{
+[src="gaming image.jpg"]:hover{
     width: 480px;
     height: 200px;
     border-radius: 10px;
